@@ -1,1 +1,1 @@
-**<h1>🍕PIZZA PLACE SALES ANALYSIS </h1>**
+**<h1 align = "center">🍕PIZZA PLACE SALES ANALYSIS </h1>**
