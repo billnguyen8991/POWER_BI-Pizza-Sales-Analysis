@@ -1,6 +1,7 @@
-**<h1 align = "center">🍕PIZZA PLACE SALES ANALYSIS </h1>**
+**<h1 align = "center">🍕PIZZA SALES ANALYSIS </h1>**
 
 Purpose
+This project aims to explore Discount Strategy of the company on a several range of pizza products to understand sales performance, sales trend of different pizza overtime so that the organisation can improve and optimise their strategy.
 
 Overview
 
