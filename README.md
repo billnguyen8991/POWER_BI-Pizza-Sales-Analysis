@@ -3,8 +3,11 @@
 Purpose
 This project aims to explore Discount Strategy of the company on a several range of pizza products to understand sales performance, sales trend of different pizza overtime so that the organisation can improve and optimise their strategy.
 
-Overview
+Database
 
+
+
+![image](https://github.com/user-attachments/assets/2680788a-1bb0-4634-872d-ef453712ece5)
 
 
 Sales are nearly consistent throughout the week, with the peak sales on Weekends (Friday and Saturday)
@@ -20,6 +23,3 @@ As a result, Quarter 2 has the highest sales while sales are declined in Quarter
 
 
 Size L takes the largest amount of sales in a day and overall sales. Whereas, size XXL is barely bought by customers.
-
-![image](https://github.com/user-attachments/assets/2680788a-1bb0-4634-872d-ef453712ece5)
-
