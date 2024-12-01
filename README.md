@@ -1,4 +1,4 @@
-**<h1 align = "center">🍕PIZZA PLACE SALES ANALYSIS </h1>**
+**<h1 align = "center">🍕PIZZA SALES ANALYSIS </h1>**
 
 Purpose
 
