@@ -1,9 +1,12 @@
-**<h1 align = "center">🍕PIZZA SALES ANALYSIS </h1>**
+**<h1 align = "center">🍕
+Domino Pizza Sales Report  </h1>**
 
 Purpose
 
 
-![image](https://github.com/user-attachments/assets/2680788a-1bb0-4634-872d-ef453712ece5)
+Data Schema
+![image](https://github.com/user-attachments/assets/e3a52e4d-744a-485d-80f8-68461bedee21)
+
 
 Insight Deep Dive
 Overall Sales Trend:
