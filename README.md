@@ -36,7 +36,9 @@ In general, L size takes the most revenue for all category while the revenue fal
 For **Chicken** category, the revenue is dominated by L size while there is no order for XL and XXL size. For total revenue, L size dominates the revenue followed by M and S sizes.
 For **Supreme** and **Veggie** category,  the revenue focuses on 3 sizes only (S, M and L), which is the same with Chicken category. L size also dominates the revenue followed by M and S sizes. Whereas for **Classic**, sales are shared across all the size (S, M, L, XL and XXL). However, while L size still dominates revenue but it is followed by S and M size instead of M and S trend. 
 
-Recommendation: The organisation should focus on three size only (S, M and L) while pay more attention to L size as it dominates total revenue. 
+
+
+**Recommendation:** The organisation should focus on three size only (S, M and L) while pay more attention to L size as it dominates total revenue. 
 S and M size are smaller, which is suitable for an individual or a couple. Therefore, in order to upsell these size, organisation should create a promotion for M size, such as buy 1 pizza get 50% off for 1 drink. 
 For low performance category, organisation should consider run a 1-day promotion, such as "Veggie Tuesday" – 20% off for All Veggie pizzas. or "Chicken Sunday" – buy 1 get 50% off for the next chicken pizza.
 
